@@ -1,1 +1,1 @@
-# BRACU_CSE423-Computer_Graphics
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE423 known as Computer Graphics. These Lab assignments are given during Spring'2023 Semester for the course work.
