@@ -45,7 +45,7 @@ def convert_to_zone0(x, y, zone):
     if zone == 1:
         return y, x
     if zone == 2:
-        return y, -x
+        return -y, x
     if zone == 3:
         return -x, y
     if zone == 4:
@@ -53,7 +53,7 @@ def convert_to_zone0(x, y, zone):
     if zone == 5:
         return -y, -x
     if zone == 6:
-        return -y, x
+        return y, -x
     if zone == 7:
         return x, -y
 
